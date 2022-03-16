@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Maho09
+- 👋 Hi, I’m Mahmoud Ashraf
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python as my 1st language
+- 🌱 I’m currently taking cs50x on edx
+- 😎 Interested in web development
 - 💞️ I’m looking to collaborate on none yet
 - 📫 How to reach me ... erenyaarmin5000@gmail.com
 
