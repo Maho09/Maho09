@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mahmoud Ashraf
 - 👀 I’m interested in programming
-- 🌱 I’m currently taking cs50x on edx
-- 😎 Interested in web development
+- 🤯Currently doing leetcode on data structures and algorithms
+- 😎 Interested in back-end web development
+- 😁Took Harvard's CS50x and CS50p
 - 💞️ I’m looking to collaborate on none yet
 - 📫 How to reach me ... erenyaarmin5000@gmail.com
 
