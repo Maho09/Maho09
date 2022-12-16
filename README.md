@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmoud Ashraf
 - 👀 I’m interested in programming
-- 🤯Currently doing leetcode on data structures and algorithms
+- 🤯Currently doing leetcode on data structures and algorithms and taking cs50w(Harvard's web development with python and javascript)
 - 😎 Interested in back-end web development
 - 😁Took Harvard's CS50x and CS50p
 - 💞️ I’m looking to collaborate on none yet
