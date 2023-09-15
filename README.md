@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Mahmoud Ashraf
 - 👀 I’m interested in programming
-- 🤯Currently doing leetcode on data structures and algorithms and taking cs50w(Harvard's web development with python and javascript)
-- 😎 Interested in back-end web development
-- 😁Took Harvard's CS50x and CS50p
+- 🤯Currently studying software engineering.
+- 😎 Interested in back-end web development with python (Django). 
+- 🤔Also interested in react.
+- 😁Took Harvard's CS50x,CS50p and cs50w
 - 💞️ I’m looking to collaborate on none yet
 - 📫 How to reach me ... erenyaarmin5000@gmail.com
 
