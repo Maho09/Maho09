@@ -3,8 +3,8 @@
 - 🤯Currently studying software engineering.
 - 😎 Interested in back-end web development with python (Django). 
 - 🤔Also interested in react.
-- 😁Took Harvard's CS50x,CS50p and cs50w
-- 💞️ I’m looking to collaborate on none yet
+- 😁Took Harvard's CS50x,CS50p,cs50w and cs5Osql.
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ... erenyaarmin5000@gmail.com
 
 <!---
